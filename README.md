@@ -7,3 +7,4 @@
 - [Two sum](cmd/two_sum.go)
 - [Add two numbers](cmd/add_two_numbers.go)
 - [Longest Substring Without Repeating Characters](cmd/longest_substring_without_repeating_characters.go)
+- [Palindrome number](cmd/palindrome_number.go)
